@@ -25,7 +25,7 @@ To predict loan approval status using logistic regression, and evaluate model pe
 7. Visualize feature importance and results
 
 ## 📊 Results
-- Accuracy: ~XX% (Fill in from your model output)
+- Accuracy: 100 %
 - Confusion Matrix & Classification Report provided
 - Insights support understanding of approval criteria for loans
 
